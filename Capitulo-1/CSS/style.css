@@ -73,6 +73,13 @@ section{
 .icon-1 img{width: 30vw;
     margin: 48px;}
 
+.separation-line{
+    width: 50vw;
+    border-top: 1px solid rgb(142, 142, 142);
+    margin-top: 24px;
+    margin-bottom: 48px;
+}
+
 
 p {
     width: 50vw;
@@ -88,8 +95,11 @@ p {
     text-align: justify;
 }
 
-.map-1 img{width: 40vw;
-    margin: 48px;}
+.map-1 img{width: 50vw;
+    margin: 48px;
+    margin-bottom: 120px;}
+
+    
 
 .tittle-1{font-size: 36px;
             margin-top: 48px;}
@@ -98,6 +108,81 @@ p {
     width: 35vw;
     margin: 48px;
 }
+
+.map-2 img{width: 80%;
+    margin: 48px;
+    margin-bottom: 10px;}
+
+
+.foto-2 img{
+    width: 35vw;
+    margin: 48px;
+}
+
+.foto-3 img{
+    width: 35vw;
+    margin: 48px;
+}
+
+
+
+.foto-4 img{
+    width: 35vw;
+    margin: 48px;
+}
+
+.foto-5 img{
+    width: 35vw;
+    margin: 48px;
+}
+
+.foto-6 img{
+    width: 50vw;
+    margin-top: 24px;
+    margin-bottom: 18px;
+}
+
+.explic-mapa-3{
+    width: 24vw;
+    margin-top: 12px;
+    margin-bottom: 96px;
+}
+
+
+.foto-7 img{
+    width: 45vw;
+    margin: 48px;
+}
+
+.foto-8 img{
+    width: 45vw;
+    margin: 48px;
+}
+
+.foto-9 img{
+    width: 45vw;
+    margin: 48px;
+}
+
+.epigr-1{width: 35vw;
+            display: flex;
+            flex-direction: row;
+            margin-top: -84px;
+
+
+}
+
+.epigr-1 p{
+            font-size: 18px;
+          font-weight: 700;
+         
+         text-align: center;
+
+
+}
+
+.map-2 img{width: 40vw;
+            margin: 96px;}
 
 .heading{
 
