@@ -286,7 +286,7 @@ p {
     /* Estilos CSS que se aplicarán cuando el ancho de la pantalla
        (o el viewport) sea de 1000 píxeles o más */
   
-     
+     body{width: 100%;}
 
        .content{
         width: 90%; 
@@ -299,7 +299,7 @@ p {
 
     
 .header{
-    width: 100%;
+    width: 100vw;
     padding-top: 2rem;
     padding-bottom: 2rem;
     
