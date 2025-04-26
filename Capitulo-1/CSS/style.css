@@ -289,7 +289,7 @@ p {
      body{width: 100%;}
 
        .content{
-        width: 90%; 
+        width: 100%; 
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -363,14 +363,4 @@ p {
              text-align: center;
             }
      
-
-
-
-
-            .explic-mapa-3 img{
-                width: 120%;
-                margin-top: 12px;
-                margin-bottom: 24px;
-                 
-            }
   }
