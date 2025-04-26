@@ -343,7 +343,7 @@ p {
         }
 
         .map-1 img{width: 70vw;
-            margin: 48px;
+            margin-top: 48px;
             margin-bottom: 48px;}
 
 
@@ -367,4 +367,7 @@ p {
              text-align: center;
             }
      
+            .map-2 img{width: 70vw;
+                margin-top: 72px;
+                margin-bottom: 48px;}
   }
