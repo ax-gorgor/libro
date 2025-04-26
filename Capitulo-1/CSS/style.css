@@ -314,7 +314,8 @@ p {
 }
 
     .icon-1 img{width: 50vw;
-        margin: 48px;}
+        margin: 12px;
+        margin-bottom: 60px;}
   
         .separation-line{
             width: 50%;
