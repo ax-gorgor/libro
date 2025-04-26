@@ -321,8 +321,12 @@ p {
             width: 50%;
             border-top: 1px solid rgb(142, 142, 142);
             margin-top: 24px;
-            margin-bottom: 48px;
+            margin-bottom: 24px;
         }
+
+        .tittle-1{font-size: 36px;
+            margin-top: 24px;
+        margin-bottom: 24px;}
      
         p {
             width: 95%;
@@ -340,7 +344,7 @@ p {
 
         .map-1 img{width: 70vw;
             margin: 48px;
-            margin-bottom: 120px;}
+            margin-bottom: 48px;}
 
 
             .foto-1 img{
