@@ -514,6 +514,14 @@ a .chapter-container{text-decoration: none;
     
 }
 
+.heading{
+
+     
+    margin-bottom: 0.5rem;
+     
+    
+}
+
 .heading h3{
     width: 100vw;
    font-size: 36px;
@@ -532,7 +540,7 @@ a .chapter-container{text-decoration: none;
     width: 300px;
     height: 300px;
      padding: 5%;
-    margin:  54px 0px ;
+    margin:  12px 0px ;
     object-fit: cover;
      
      }
