@@ -194,6 +194,7 @@ a .chapter-container{text-decoration: none;
 .chapter-images img{width: 400px;
                 height: 400px;
                 object-fit: cover;
+                overflow: hidden
                }
                
 
@@ -532,9 +533,23 @@ a .chapter-container{text-decoration: none;
     height: 300px;
      padding: 5%;
     margin:  54px 0px ;
-     
+    object-fit: cover;
      
      }
+
+     .chapter-container img {
+        width: 300px;
+        height: 300px;
+         padding: 5%;
+        margin:  54px 0px ;
+        
+         
+         
+         }
+
+         .chapter-number-container{
+            margin-top: -48px;
+        }
 
 }
 
