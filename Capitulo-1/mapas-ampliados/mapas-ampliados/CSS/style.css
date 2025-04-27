@@ -12,42 +12,43 @@
     transition: all 0.4s cubic-bezier(.43,1.1,0.62,1.08);
      }
 
-     body{width: 100%;}
+     
 
-     .map-1{
-        width: 100%; 
-        height: 100%;
-        display: flex;
-        flex-direction: row;
+     .map-1 {
+        width: 100%;  
+        display: flex;  
         justify-content: center;
         align-items: center;
-        padding: 24px; 
-        
-    }
+         
+      }
+      
+      .map-1-center {
+        max-width: 95%; /* La imagen no ocupará más del 95% del ancho */
+        height: auto;
+        display: block; /* Necesario para margin: 0 auto; si no usas flex */
+        margin: 0 auto; /* Centra la imagen si el contenedor no es flex */
+      }
 
 
 @media (max-width: 650px) {
-    /* Estilos CSS que se aplicarán cuando el ancho de la pantalla
-       (o el viewport) sea de 1000 píxeles o más */
-  
-     body{width: 100%;}
+    
 
-     .map-1{
-        width: 100%; 
-        height: 100%;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        padding: 6px; 
-        
-    }
-
-    .map-1 img{width: 96%;
-        height: 100%;
-        transform: rotate(90deg);
-                object-fit: contain;} 
-
+                  .map-1 { display: flex;
+                    justify-content: center; /* Centra horizontalmente (ahora verticalmente después de la rotación) */
+                    align-items: center;    /* Centra verticalmente (ahora horizontalmente después de la rotación) */
+                    width: 100%; /* Asegúrate de que el contenedor ocupe el ancho */
+                    height: 90vh; /* Asegúrate de que el contenedor tenga altura suficiente */
+                    /* Puedes ajustar la altura según necesites */
+                    transform: rotate(90deg);
+                    
+                  }
+                
+                  .map-1-center {
+                    max-width: 90vh; /* El nuevo "ancho" (altura original) no excederá el 90% del alto del viewport */
+                    max-height: 90vw; /* El nuevo "alto" (ancho original) no excederá el 90% del ancho del viewport */
+                    /* Ajusta los porcentajes según necesites */
+                    padding: 2%;
+                  }
      
 
   }
