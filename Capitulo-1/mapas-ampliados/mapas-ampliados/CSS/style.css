@@ -43,7 +43,7 @@
                     align-items: center;    /* Centrado vertical */
                     width: 90%;
                     height: 100vh; /* O una altura específica que necesites */
-                    background-color: rgba(208, 7, 7, 0.691); /* Para visualizar el contenedor (opcional) */
+                    background-color: rgba(221, 221, 221, 0.691); /* Para visualizar el contenedor (opcional) */
                   }
                 
                   .map-1-center {
