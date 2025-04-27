@@ -97,9 +97,24 @@ p {
 
 .map-1 img{width: 50vw;
     margin: 48px;
-    margin-bottom: 120px;}
+    margin-bottom: 36px;}
 
-    
+
+
+ .ampliar-map{font-size: 24px;
+    background: #dbdbdb;
+    padding: 12px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.08);
+    text-decoration: none;
+    color: #222;
+    margin-top: 12px;
+    margin-bottom: 120px;
+}
+
+.ampliar-map a{color: #222;}
+
+
+ .ampliar-map:hover{transition: color 0.3s ease-in-out;} 
 
 .tittle-1{font-size: 36px;
             margin-top: 48px;}
