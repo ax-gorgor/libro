@@ -195,6 +195,113 @@ p {
     margin: 48px;
 }
 
+.foto-12a img{
+    width: 45vw;
+    margin: 48px;
+}
+
+.foto-12b img{
+    width: 60vw;
+    margin: 48px;
+}
+
+.foto-12b  {
+    margin-top: 60px;
+}
+
+.foto-12b  {
+    margin-top: 60px;
+}
+.foto-12b  {
+    margin-top: 60px;
+}
+
+.foto-13  {
+    margin-top: 60px;
+}
+.foto-13 img{
+    width: 45vw;
+    margin: 48px;
+}
+.foto-14 img{
+    width: 45vw;
+    margin: 48px;
+}
+ 
+.foto-15  {
+    margin-top: 60px;
+}
+.foto-15 img{
+    width: 45vw;
+    margin: 48px;}
+
+    .foto-16  {
+        margin-top: 60px;
+    }
+    .foto-16 img{
+        width: 45vw;
+        margin: 48px;}
+
+        .foto-17  {
+            margin-top: 60px;
+        }
+        .foto-17 img{
+            width: 45vw;
+            margin: 48px;}
+
+            .foto-18  {
+                margin-top: 60px;
+            }
+            .foto-18 img{
+                width: 45vw;
+                margin: 48px;}
+
+                .foto-19  {
+                    margin-top: 60px;
+                }
+                .foto-19 img{
+                    width: 45vw;
+                    margin: 48px;}
+
+                    .foto-20  {
+                        margin-top: 60px;
+                    }
+                    .foto-20 img{
+                        width: 45vw;
+                        margin: 48px;}
+
+
+                        .foto-21  {
+                            margin-top: 60px;
+                        }
+                        .foto-21 img{
+                            width: 45vw;
+                            margin: 48px;}
+
+                            .foto-22  {
+                                margin-top: 60px;
+                            }
+                            .foto-22 img{
+                                width: 45vw;
+                                margin: 48px;}
+            
+                                .foto-23  {
+                                    margin-top: 60px;
+                                }
+                                .foto-23 img{
+                                    width: 45vw;
+                                    margin: 48px;}
+            
+            
+                                    .foto-24  {
+                                        margin-top: 60px;
+                                    }
+                                    .foto-24 img{
+                                        width: 45vw;
+                                        margin: 48px;}
+
+
+
 .epigr-1{width: 35vw;
             display: flex;
             flex-direction: row;
@@ -312,7 +419,579 @@ p {
 
 }
 
- 
+
+/*TABLET A*/
+/*TABLET A*/
+/*TABLET A*/
+/*TABLET A*/
+/*TABLET A*/
+/*TABLET A*/
+/*TABLET A*/
+/*TABLET A*/
+
+@media (max-width: 1200px) {
+    /* Estilos CSS que se aplicarán cuando el ancho de la pantalla
+       (o el viewport) sea de 1000 píxeles o más */
+  
+     body{width: 100%;}
+
+       .content{
+        width: 100%; 
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 2px;
+        overflow-x: hidden;
+    }
+
+    
+.header{
+    width: 100vw;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
+    box-shadow: var(--box-shadow);
+    position: sticky;
+    top:0;
+    left:0;
+    right: 0;
+    background-color: var(--white);
+    z-index: 1000;
+
+}
+
+    .icon-1 img{width: 65vw;
+        margin: 12px;
+        margin-bottom: 60px;}
+  
+        .separation-line{
+            width: 50%;
+            border-top: 1px solid rgb(142, 142, 142);
+            margin-top: 24px;
+            margin-bottom: 24px;
+        }
+
+        .tittle-1{font-size: 36px;
+            margin-top: 24px;
+        margin-bottom: 24px;}
+     
+        p {
+            width: 95%;
+            display: block;
+            font-size: 22px;
+            margin-block-start: 1em;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            unicode-bidi: isolate;
+            line-height: 1.6 ;
+            margin: 6px;
+            text-align: justify;
+        }
+
+        .map-1 img{width: 70vw;
+            margin-top: 48px;
+            margin-bottom: 48px;}
+
+
+            .foto-1 img{
+                width: 65vw;
+                margin: 36px;
+            }
+
+            .epigr-1{width: 60vw;
+                display: flex;
+                flex-direction: row;
+                margin-top: -36px;
+                padding: 12px;
+    
+    
+    }
+            
+            .epigr-1 p{
+                font-size: 18px;
+              font-weight: 500;
+             
+             text-align: center;
+            }
+     
+            .map-2 img{width: 70vw;
+                margin-top: 72px;
+                margin-bottom: 48px;}
+
+                .foto-2{margin-top: 48px;}
+
+                .foto-2 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-3{margin-top: 48px;}
+
+                .foto-3 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-4{margin-top: 48px;}
+
+                .foto-4 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-5{margin-top: 48px;}
+
+                .foto-5 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .separation-line{
+                    width: 50%;
+                    border-top: 1px solid rgb(142, 142, 142);
+                    margin-top: 120px;
+                    margin-bottom: 24px;
+                }
+
+                .foto-35{margin-top: 48px;}
+
+                .foto-35 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .explic-mapa-3{
+
+                    width: 124vw;
+                     margin: 12px;
+                    padding: 60px;
+                }
+
+                .foto-7{margin-top: 48px;}
+
+                .foto-7 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-8{margin-top: 48px;}
+
+                .foto-8 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-9{margin-top: 48px;}
+
+                .foto-9 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-10{margin-top: 48px;}
+
+                .foto-10 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-11{margin-top: 48px;}
+
+                .foto-11 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-12a{margin-top: 48px;}
+
+                .foto-12a img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+                .foto-12b{margin-top: 48px;}
+
+                .foto-12b img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-13{margin-top: 48px;}
+
+                .foto-13 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-14{margin-top: 48px;}
+
+                .foto-14 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+                .foto-15{margin-top: 48px;}
+
+                .foto-15 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-16{margin-top: 48px;}
+
+                .foto-16 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-17{margin-top: 48px;}
+
+                .foto-17 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-18{margin-top: 48px;}
+
+                .foto-18 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-19{margin-top: 48px;}
+
+                .foto-19 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-20{margin-top: 48px;}
+
+                .foto-20 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-21{margin-top: 48px;}
+
+                .foto-21 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-22{margin-top: 48px;}
+
+                .foto-22 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-23{margin-top: 48px;}
+
+                .foto-23 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-24{margin-top: 48px;}
+
+                .foto-24 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+   
+  }
+
+/*TABLET B*/
+/*TABLET B*/
+/*TABLET B*/
+/*TABLET B*/
+/*TABLET B*/
+/*TABLET B*/
+/*TABLET B*/
+/*TABLET B*/
+
+@media (max-width: 920px) {
+    /* Estilos CSS que se aplicarán cuando el ancho de la pantalla
+       (o el viewport) sea de 1000 píxeles o más */
+  
+     body{width: 100%;}
+
+       .content{
+        width: 100%; 
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 2px;
+        overflow-x: hidden;
+    }
+
+    
+.header{
+    width: 100vw;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    
+    box-shadow: var(--box-shadow);
+    position: sticky;
+    top:0;
+    left:0;
+    right: 0;
+    background-color: var(--white);
+    z-index: 1000;
+
+}
+
+    .icon-1 img{width: 65vw;
+        margin: 12px;
+        margin-bottom: 60px;}
+  
+        .separation-line{
+            width: 50%;
+            border-top: 1px solid rgb(142, 142, 142);
+            margin-top: 24px;
+            margin-bottom: 24px;
+        }
+
+        .tittle-1{font-size: 36px;
+            margin-top: 24px;
+        margin-bottom: 24px;}
+     
+        p {
+            width: 95%;
+            display: block;
+            font-size: 22px;
+            margin-block-start: 1em;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-inline-end: 0px;
+            unicode-bidi: isolate;
+            line-height: 1.6 ;
+            margin: 6px;
+            text-align: justify;
+        }
+
+        .map-1 img{width: 70vw;
+            margin-top: 48px;
+            margin-bottom: 48px;}
+
+
+            .foto-1 img{
+                width: 65vw;
+                margin: 36px;
+            }
+
+            .epigr-1{width: 60vw;
+                display: flex;
+                flex-direction: row;
+                margin-top: -36px;
+                padding: 12px;
+    
+    
+    }
+            
+            .epigr-1 p{
+                font-size: 18px;
+              font-weight: 500;
+             
+             text-align: center;
+            }
+     
+            .map-2 img{width: 70vw;
+                margin-top: 72px;
+                margin-bottom: 48px;}
+
+                .foto-2{margin-top: 48px;}
+
+                .foto-2 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-3{margin-top: 48px;}
+
+                .foto-3 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-4{margin-top: 48px;}
+
+                .foto-4 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-5{margin-top: 48px;}
+
+                .foto-5 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .separation-line{
+                    width: 50%;
+                    border-top: 1px solid rgb(142, 142, 142);
+                    margin-top: 120px;
+                    margin-bottom: 24px;
+                }
+
+                .foto-35{margin-top: 48px;}
+
+                .foto-35 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .explic-mapa-3{
+
+                    width: 124vw;
+                     margin: 12px;
+                    padding: 60px;
+                }
+
+                .foto-7{margin-top: 48px;}
+
+                .foto-7 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-8{margin-top: 48px;}
+
+                .foto-8 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-9{margin-top: 48px;}
+
+                .foto-9 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-10{margin-top: 48px;}
+
+                .foto-10 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-11{margin-top: 48px;}
+
+                .foto-11 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-12a{margin-top: 48px;}
+
+                .foto-12a img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+                .foto-12b{margin-top: 48px;}
+
+                .foto-12b img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-13{margin-top: 48px;}
+
+                .foto-13 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-14{margin-top: 48px;}
+
+                .foto-14 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-15{margin-top: 48px;}
+
+                .foto-15 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-16{margin-top: 48px;}
+
+                .foto-16 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-17{margin-top: 48px;}
+
+                .foto-17 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-18{margin-top: 48px;}
+
+                .foto-18 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-19{margin-top: 48px;}
+
+                .foto-19 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-20{margin-top: 48px;}
+
+                .foto-20 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-21{margin-top: 48px;}
+
+                .foto-21 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-22{margin-top: 48px;}
+
+                .foto-22 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-23{margin-top: 48px;}
+
+                .foto-23 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-24{margin-top: 48px;}
+
+                .foto-24 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+  }
+
+
+/*CELULAR*/ 
+/*CELULAR*/ 
+/*CELULAR*/ 
+/*CELULAR*/ 
+/*CELULAR*/ 
+/*CELULAR*/ 
+/*CELULAR*/ 
+
+
 @media (max-width: 650px) {
     /* Estilos CSS que se aplicarán cuando el ancho de la pantalla
        (o el viewport) sea de 1000 píxeles o más */
@@ -486,5 +1165,107 @@ p {
                     width: 65vw;
                     margin: 36px;
                 }
+
+                .foto-12a{margin-top: 48px;}
+
+                .foto-12a img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+                .foto-12b{margin-top: 48px;
+                            display: none;}
+
+                .bannear{
+                    display: none
+                }
+
+                .foto-12b img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-13{margin-top: 60px;}
+
+                .foto-13 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-14{margin-top: 48px;}
+
+                .foto-14 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-15{margin-top: 48px;}
+
+                .foto-15 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-16{margin-top: 48px;}
+
+                .foto-16 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-17{margin-top: 48px;}
+
+                .foto-17 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-18{margin-top: 48px;}
+
+                .foto-18 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-19{margin-top: 48px;}
+
+                .foto-19 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+                .foto-20{margin-top: 48px;}
+
+                .foto-20 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-21{margin-top: 48px;}
+
+                .foto-21 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+
+                .foto-22{margin-top: 48px;}
+
+                .foto-22 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-23{margin-top: 48px;}
+
+                .foto-23 img{
+                    width: 65vw;
+                    margin: 36px;
+                }
+   
+                .foto-24{margin-top: 48px;}
+
+                .foto-24 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+   
    
   }
