@@ -80,12 +80,23 @@ section{
     margin-bottom: 48px;
 }
 
-.separation-line-red {
+.separation-line-red-1 {
+     
+    width: 54vw;
+    height: 700px;
+    border-top: 2px solid rgb(158, 8, 8);
+    border-left: 2px solid rgb(158, 8, 8);;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    padding: 24px;
+}
+
+.separation-line-red-2 {
      
     width: 54vw;
     height: 650px;
     border-top: 2px solid rgb(158, 8, 8);
-    border-left: 2px solid rgb(158, 8, 8);;
+    border-left: 2px solid rgb(158, 8, 8); 
     margin-top: 24px;
     margin-bottom: 48px;
     padding: 24px;
@@ -103,7 +114,7 @@ section{
 
 .comments{display: flex;
         flex-direction: column;
-         
+         color: rgb(158, 8, 8) ;
         align-items: center;
         margin-top: 60px;
         margin-bottom: 100px;
@@ -635,15 +646,26 @@ p {
 
                 .comments{display: flex;
                     flex-direction: column;
-                     
+                    color: rgb(158, 8, 8) ;
                     align-items: center;
                     margin-top: 60px;
                     margin-bottom: 30px;
             }
-                .separation-line-red {
+
+            .separation-line-red-1 {
+             
+                width: 70vw;
+                height: 600px;
+                border-top: 2px solid rgb(158, 8, 8);
+                border-left: 2px solid rgb(158, 8, 8);;
+                margin-top: 24px;
+                margin-bottom: 48px;
+                padding: 24px;
+            }
+                .separation-line-red-2 {
              
                     width: 70vw;
-                    height: 600px;
+                    height: 560px;
                     border-top: 2px solid rgb(158, 8, 8);
                     border-left: 2px solid rgb(158, 8, 8);;
                     margin-top: 24px;
@@ -988,15 +1010,26 @@ p {
 
                 .comments{display: flex;
                     flex-direction: column;
-                     
+                    color: rgb(158, 8, 8) ;
                     align-items: center;
                     margin-top: 60px;
                     margin-bottom: 30px;
             }
-                .separation-line-red {
+
+            .separation-line-red-1 {
+             
+                width: 70vw;
+                height: 820px;
+                border-top: 2px solid rgb(158, 8, 8);
+                border-left: 2px solid rgb(158, 8, 8);;
+                margin-top: 24px;
+                margin-bottom: 48px;
+                padding: 24px;
+            }
+                .separation-line-red-2 {
              
                     width: 70vw;
-                    height: 720px;
+                    height: 690px;
                     border-top: 2px solid rgb(158, 8, 8);
                     border-left: 2px solid rgb(158, 8, 8);;
                     margin-top: 24px;
@@ -1280,15 +1313,26 @@ p {
 
         .comments{display: flex;
             flex-direction: column;
-             
+            color: rgb(158, 8, 8) ; 
             align-items: center;
             margin-top: 60px;
             margin-bottom: 30px;
     }
-        .separation-line-red {
+
+    .separation-line-red-1 {
+     
+        width: 70vw;
+        height: 1300px;
+        border-top: 2px solid rgb(158, 8, 8);
+        border-left: 2px solid rgb(158, 8, 8);;
+        margin-top: 24px;
+        margin-bottom: 72px;
+        padding: 24px;
+    }
+        .separation-line-red-2 {
      
             width: 70vw;
-            height: 1380px;
+            height: 1230px;
             border-top: 2px solid rgb(158, 8, 8);
             border-left: 2px solid rgb(158, 8, 8);;
             margin-top: 24px;
