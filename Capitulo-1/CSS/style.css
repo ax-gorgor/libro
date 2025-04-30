@@ -80,6 +80,30 @@ section{
     margin-bottom: 48px;
 }
 
+.separation-line-red {
+     
+    width: 54vw;
+    height: 780px;
+    border-top: 2px solid rgb(158, 8, 8);
+    border-left: 2px solid rgb(158, 8, 8);;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    padding: 24px;
+}
+
+
+.comments{display: flex;
+        flex-direction: column;
+         
+        align-items: center;
+        margin-top: 60px;
+        margin-bottom: 100px;
+}
+
+
+.separation-line-red p   {color: rgb(158, 8, 8) ;}
+.separation-line-red h4 {color: rgb(158, 8, 8) ;}
+
 
 p {
     width: 50vw;
@@ -94,6 +118,8 @@ p {
     margin: 48px;
     text-align: justify;
 }
+
+
 
 .map-1 img{width: 50vw;
     margin: 48px;
@@ -299,6 +325,50 @@ p {
                                     .foto-24 img{
                                         width: 45vw;
                                         margin: 48px;}
+
+                                        .foto-25  {
+                                            margin-top: 60px;
+                                        }
+                                        .foto-25 img{
+                                            width: 45vw;
+                                            margin: 48px;}
+
+                                            .foto-26  {
+                                                margin-top: 60px;
+                                            }
+                                            .foto-26 img{
+                                                width: 45vw;
+                                                margin: 48px;}
+
+                                                .foto-27  {
+                                                    margin-top: 60px;
+                                                    
+                                                }
+                                                .foto-27 img{
+                                                    width: 45vw;
+                                                    margin: 48px;}
+
+                                                    .foto-28  {
+                                                        margin-top: 60px;
+                                                    }
+                                                    .foto-28 img{
+                                                        width: 45vw;
+                                                        margin: 48px;}
+
+                                                        .foto-29  {
+                                                            margin-top: 60px;
+                                                        }
+                                                        .foto-29 img{
+                                                            width: 45vw;
+                                                            margin: 48px;}
+
+                                                            .foto-30  {
+                                                                margin-top: 60px;
+                                                            }
+                                                            .foto-30 img{
+                                                                width: 45vw;
+                                                                margin: 48px;}
+    
 
 
 
@@ -554,6 +624,24 @@ p {
                     margin-bottom: 24px;
                 }
 
+                .comments{display: flex;
+                    flex-direction: column;
+                     
+                    align-items: center;
+                    margin-top: 60px;
+                    margin-bottom: 30px;
+            }
+                .separation-line-red {
+             
+                    width: 70vw;
+                    height: 550px;
+                    border-top: 2px solid rgb(158, 8, 8);
+                    border-left: 2px solid rgb(158, 8, 8);;
+                    margin-top: 24px;
+                    margin-bottom: 48px;
+                    padding: 24px;
+                }
+
                 .foto-35{margin-top: 48px;}
 
                 .foto-35 img{
@@ -698,7 +786,50 @@ p {
                     width: 65vw;
                     margin: 36px;
                 } 
-   
+                .foto-25{margin-top: 48px;}
+
+                .foto-25 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-26{margin-top: 48px;}
+
+                .foto-26 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-27{margin-top: 48px;}
+
+                .foto-27 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+                .foto-28{margin-top: 48px;}
+
+                .foto-28 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-29{margin-top: 48px;}
+
+                .foto-29 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-30{margin-top: 48px;}
+
+                .foto-30 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                
+
+                
   }
 
 /*TABLET B*/
@@ -835,6 +966,24 @@ p {
                     margin-bottom: 24px;
                 }
 
+                .comments{display: flex;
+                    flex-direction: column;
+                     
+                    align-items: center;
+                    margin-top: 60px;
+                    margin-bottom: 30px;
+            }
+                .separation-line-red {
+             
+                    width: 70vw;
+                    height: 700px;
+                    border-top: 2px solid rgb(158, 8, 8);
+                    border-left: 2px solid rgb(158, 8, 8);;
+                    margin-top: 24px;
+                    margin-bottom: 48px;
+                    padding: 24px;
+                }
+
                 .foto-35{margin-top: 48px;}
 
                 .foto-35 img{
@@ -980,6 +1129,51 @@ p {
                     width: 65vw;
                     margin: 36px;
                 } 
+
+                .foto-25{margin-top: 48px;}
+
+                .foto-25 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+                .foto-26{margin-top: 48px;}
+
+                .foto-26 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-27{margin-top: 48px;}
+
+                .foto-27 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-28{margin-top: 48px;}
+
+                .foto-28 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-29{margin-top: 48px;}
+
+                .foto-29 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-30{margin-top: 48px;}
+
+                .foto-30 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+             
+
+
   }
 
 
@@ -1051,6 +1245,28 @@ p {
             margin: 6px;
             text-align: justify;
         }
+
+
+        .comments{display: flex;
+            flex-direction: column;
+             
+            align-items: center;
+            margin-top: 60px;
+            margin-bottom: 30px;
+    }
+        .separation-line-red {
+     
+            width: 70vw;
+            height: 1000px;
+            border-top: 2px solid rgb(158, 8, 8);
+            border-left: 2px solid rgb(158, 8, 8);;
+            margin-top: 24px;
+            margin-bottom: 48px;
+            padding: 24px;
+        }
+        
+        
+       
 
         .map-1 img{width: 70vw;
             margin-top: 48px;
@@ -1266,6 +1482,50 @@ p {
                     width: 65vw;
                     margin: 36px;
                 } 
+
+                .foto-25{margin-top: 48px;}
+
+                .foto-25 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-26{margin-top: 48px;}
+
+                .foto-26 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-27{margin-top: 48px;}
+
+                .foto-27 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-28{margin-top: 48px;}
+
+                .foto-28 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-29{margin-top: 48px;}
+
+                .foto-29 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+
+                .foto-30{margin-top: 48px;}
+
+                .foto-30 img{
+                    width: 65vw;
+                    margin: 36px;
+                } 
+   
+   
    
    
   }
