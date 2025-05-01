@@ -1320,6 +1320,16 @@ p {
             text-align: justify;
         }
 
+        .first-letter:first-letter {
+            font-size: 3em; /* Ajusta este valor para el tamaño deseado (3 veces el tamaño normal) */
+            transform-origin: top left;
+            transform: scaleY(3);
+            float: left; /* Opcional: hacer que la letra "flote" a la izquierda y el texto la rodee */
+            margin-right: 5px; /* Opcional: añadir un poco de espacio a la derecha de la letra */
+            line-height: 1 ; 
+            color: rgb(158, 8, 8);
+        }
+        
 
         .comments{display: flex;
             flex-direction: column;
