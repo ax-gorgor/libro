@@ -1416,18 +1416,40 @@ p {
                     margin-bottom: 24px;
                 }
 
-                .foto-35{margin-top: 48px;}
+                .foto-6{margin-top: 48px;}
+
+                .foto-6 img{
+                    width: 80vw;
+                    margin: 24px;
+                }
+
+              
 
                 .foto-35 img{
                     width: 80vw;
                     margin: 24px;
                 }
 
-                .explic-mapa-3{
 
-                    width: 124vw;
-                     margin: 12px;
-                    padding: 60px;
+                .explic-mapa-3 {
+                    margin-top: 0px;
+                    
+                }
+
+
+                .explic-mapa-3 img{
+
+                    width: 80vw;
+                    margin: 24px;
+                }
+
+               
+
+
+                .explic-mapa-3 img{
+
+                    width: 80vw;
+                    margin: 24px;
                 }
 
                 .foto-7{margin-top: 48px;}
