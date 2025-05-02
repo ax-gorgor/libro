@@ -1320,7 +1320,7 @@ p {
             text-align: justify;
         }
 
-        .first-letter:first-letter {
+        .first-letter::first-letter {
             font-size: 3em; /* Ajusta este valor para el tamaño deseado (3 veces el tamaño normal) */
             transform-origin: top left;
             transform: scaleY(3);
