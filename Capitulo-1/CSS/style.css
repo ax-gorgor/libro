@@ -1327,7 +1327,7 @@ p {
             float: left; /* Opcional: hacer que la letra "flote" a la izquierda y el texto la rodee */
             margin-right: 5px; /* Opcional: añadir un poco de espacio a la derecha de la letra */
             line-height: 1 ; 
-            color: rgb(158, 8, 8);
+            color: rgb(53, 8, 158);
         }
         
 
