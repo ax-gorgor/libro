@@ -1,0 +1,360 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+    
+    }
+
+.container-1 {
+    margin: 25px;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: white;
+    width: 100%;
+    height: 10%;
+    margin-top: 0;
+    padding: 1%;
+}
+
+.capital::first-letter {
+    font-size: 3em;
+    color: purple;
+    float: left;            /* ¡Esto es clave para que el texto la contornee! */
+    margin-right: 0.15em;   /* Espacio entre la letra y el texto */
+    line-height: 1;         /* Ajusta la altura de la línea de la letra capital */
+    font-weight: bold;
+}
+
+.subcontainer-1{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.map-1{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
+
+.map-1 img {
+    width: 724px;
+    margin-top: 36px;
+    padding: 12px;
+}
+
+.subcontainer-1 h3{
+    font-size: 36px;
+    padding: 24px;
+    margin-top: 180px;
+
+}
+
+.subcontainer-1 p{
+    padding: 120px;
+    font-size: 22px;
+    line-height: 1.5em;
+    width: 80%;
+
+}
+
+.subcontainer-2{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+.subcontainer-2 h4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    font-size: 32px;
+    margin-top: 180px;
+
+}
+
+.subcontainer-2 p{
+
+    font-size: 24px;
+    padding: 80px;
+    line-height: 1.5em;
+    width: 80%;
+
+}
+
+.pic-1   {display: flex;
+            justify-content: center;
+    width: 100%;
+}
+
+
+.pic-1 img {
+    width: 724px;
+    margin-top: 36px;
+    padding: 12px;
+}
+
+.epi-1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    }
+
+.epi-1 p{
+
+    width: 724px;
+    padding: 6px;
+    font-size: 18px;
+     
+
+}
+
+.map-2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.map-2 img {
+    width: 724px;
+    margin-top: 120px;
+    padding: 12px;
+}
+
+.pic-2{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
+
+.pic-2 img {
+    width: 724px;
+    margin-top: 120px;
+    padding: 12px;
+}
+
+.epi-2{
+    display: flex;
+    justify-content: center;
+     
+    }
+
+
+.epi-2 p{
+    width: 724px;
+    padding: 6px;
+    font-size: 18px;
+     
+
+}
+
+
+.pic-3{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-3 img {
+    width: 724px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-3{display: flex;
+    justify-content: center;}
+
+
+  .epi-3 p{
+    width: 724px;
+    padding: 6px;
+    font-size: 18px;
+
+}
+
+@media screen and (max-width: 768px) {
+   
+
+    .subcontainer-1{
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    
+    .map-1{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    
+    }
+    
+    
+    .map-1 img {
+        
+        margin-top: 60px;
+        padding: 12px;
+        width: 60%;
+    }
+    
+    .subcontainer-1 h3{
+        font-size: 28px;
+        padding: 24px;
+        margin-top: 120px;
+    
+    }
+    
+    .subcontainer-1 p{
+        width: 80%;
+        font-size: 18px;
+        padding: 12px;
+        line-height: 1.5em;
+    
+    }
+    
+    .subcontainer-2{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .subcontainer-2 h4{
+         
+        font-size: 28px;
+        padding: 22px;
+        margin-top: 60px;
+    
+    }
+    
+    .subcontainer-2 p{
+        width: 80%;
+        font-size: 18px;
+        padding: 12px;
+        line-height: 1.5em;
+    
+    }
+    
+    .pic-1   {display: flex;
+                justify-content: center;
+        width: 100%;
+    }
+    
+    
+    .pic-1 img {
+        width: 80%;
+        margin-top: 36px;
+        padding: 12px;
+    }
+    
+    .epi-1{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        }
+    
+    .epi-1 p{
+    
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+         
+    
+    }
+    
+    .map-2{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    
+    }
+    
+    .map-2 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 12px;
+    }
+    
+    .pic-2{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    
+    }
+    
+    
+    .pic-2 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 12px;
+    }
+    
+    .epi-2{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+         
+        }
+    
+    
+    .epi-2 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+         
+    
+    }
+    
+    
+    .pic-3{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-3 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 48px;
+    }
+    
+    .epi-3{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-3 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    
+    }
+
+    
+}
