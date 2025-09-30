@@ -215,7 +215,7 @@
     
     
     .map-1 img {
-        
+        width: 96%;
         margin-top: 60px;
         padding: 12px;
         width: 60%;
@@ -295,7 +295,7 @@
     }
     
     .map-2 img {
-        width: 80%;
+        width: 96%;
         margin-top: 120px;
         padding: 12px;
     }
