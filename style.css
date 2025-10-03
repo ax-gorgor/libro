@@ -13,7 +13,7 @@ body{font-family: 'EB Garamond', serif;
 }
 
 .container-1 {
-    margin: 25px;
+     
     position: fixed;
     display: flex;
     flex-direction: row;
@@ -23,7 +23,7 @@ body{font-family: 'EB Garamond', serif;
     width: 100%;
     height: 10%;
     margin-top: 0;
-    padding: 1%;
+    padding: 0%;
     top: 0;
     z-index: 10;
      
@@ -268,6 +268,8 @@ body{font-family: 'EB Garamond', serif;
     font-size: 18px;
 }
 
+
+
 /**/
 
 .subcontainer-3{
@@ -303,6 +305,290 @@ body{font-family: 'EB Garamond', serif;
 }
 
 
+.map-3{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 96px;
+
+}
+
+
+.map-3_bis{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 36px;
+
+}
+
+.pic-6{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-6 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-6{display: flex;
+    justify-content: center;}
+
+
+  .epi-6 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+.pic-7{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-7 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-7{display: flex;
+    justify-content: center;}
+
+
+  .epi-7 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+
+.pic-8{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-8 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-8{display: flex;
+    justify-content: center;}
+
+
+  .epi-8 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+
+.pic-9{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-9 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-9{display: flex;
+    justify-content: center;}
+
+
+  .epi-9 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+.pic-10{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-10 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-10{display: flex;
+    justify-content: center;}
+
+
+  .epi-10 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+.pic-11{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-11 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-11{display: flex;
+    justify-content: center;}
+
+
+  .epi-11 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+
+.pic-8{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-8 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-8{display: flex;
+    justify-content: center;}
+
+
+    .pic-9{
+
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-9 img {
+        width: 576px;
+        margin-top: 120px;
+        padding: 48px;
+    }
+    
+    .epi-9{display: flex;
+        justify-content: center;}
+    
+    
+      .epi-9 p{
+        width: 576px;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    .pic-12_a{
+
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-12_a img {
+        width: 576px;
+        margin-top: 120px;
+        padding: 6px;
+    }
+    
+
+
+
+.pic-12_b{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-12_b img {
+    width: 768px;
+    margin-top: 12px;
+    padding: 6px;
+}
+
+.epi-12{display: flex;
+    justify-content: center;}
+
+
+  .epi-12 p{
+    width: 576px;
+    padding: 12px;
+    font-size: 18px;
+}
+
+
+.pic-13{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-13 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-13{display: flex;
+    justify-content: center;}
+
+
+  .epi-13 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+
+.pic-14{
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.pic-14 img {
+    width: 576px;
+    margin-top: 120px;
+    padding: 48px;
+}
+
+.epi-14{display: flex;
+    justify-content: center;}
+
+
+  .epi-14 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+}
  
 
 @media screen and (max-width: 768px) {
@@ -533,6 +819,272 @@ body{font-family: 'EB Garamond', serif;
         padding: 12px;
         line-height: 1.5em;
     
+    }
+
+    .map-3{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin-top: 36px;
+    
+    }
+    
+    
+    .map-3_bis{
+        display: flex;
+        justify-content: center;
+        width: 96%;
+        margin-top: 12px;
+    
+    }
+
+    .map-3 img {
+        width: 96%;
+       
+        padding: 12px;
+    }
+
+    .map-3_bis img {
+        width: 96%;
+        
+        padding: 24px;
+    }
+
+
+    .pic-6{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-6 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 24px;
+    }
+    
+    .epi-6{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-6 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+
+    .pic-7{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-7 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 24px;
+    }
+    
+    .epi-7{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-7 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+
+    .pic-8{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-8 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 24px;
+    }
+    
+    .epi-8{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-8 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    .pic-9{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-9 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 24px;
+    }
+    
+    .epi-9{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-9 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    .pic-10{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-10 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 24px;
+    }
+    
+    .epi-10{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-10 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    .pic-11{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-11 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 24px;
+    }
+    
+    .epi-11{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-11 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    .pic-12_a{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-12_a img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 12px;
+    }
+    
+    .epi-12_a{display: flex;
+        justify-content: center;
+        width: 100%;}
+
+
+        .pic-12_b{
+    
+            display: flex;
+            justify-content: center;
+            width: 100%;
+        }
+        
+        .pic-12_b img {
+            width: 80%;
+            margin-top: 24px;
+            padding: 12px;
+        }
+        
+        .epi-12_b{display: flex;
+            justify-content: center;
+            width: 100%;}
+    
+    
+      .epi-12 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    .pic-13{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-13 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 24px;
+    }
+    
+    .epi-13{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-13 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    .pic-14{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-14 img {
+        width: 80%;
+        margin-top: 120px;
+        padding: 24px;
+    }
+    
+    .epi-14{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-14 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
     }
 
     
