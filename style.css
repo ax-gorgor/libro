@@ -591,6 +591,39 @@ body{font-family: 'EB Garamond', serif;
 }
  
 
+.subcontainer-4{
+
+
+ display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+.subcontainer-4 h4{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    font-size: 32px;
+    margin-top: 180px;
+    color: #800020;
+
+}
+
+.subcontainer-4 p{
+
+    font-size: 24px;
+    padding: 80px;
+    line-height: 1.5em;
+    width: 72%;
+
+}
+
 @media screen and (max-width: 768px) {
    
 
