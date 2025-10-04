@@ -982,6 +982,26 @@ body{font-family: 'EB Garamond', serif;
         padding: 24px;
     }
 
+    .subcontainer-4 h4{
+        font-size: 28px;
+        padding: 22px;
+        margin-top: 60px;
+        color: #800020;
+
+        
+    
+    }
+
+
+    .subcontainer-4 p{
+    
+        width: 80%;
+        font-size: 18px;
+        padding: 12px;
+        line-height: 1.5em;
+    
+    }
+
 
     .pic-6{
     
