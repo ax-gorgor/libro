@@ -305,6 +305,51 @@ body{font-family: 'EB Garamond', serif;
 }
 
 
+.herodoto_1{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 36px;
+}
+
+
+.subcontainer-3 .herodoto_1{
+
+    font-size: 24px;
+    padding: 24px;
+    line-height: 1.5em;
+    width: 72%;
+    color: #800020;
+
+}
+
+
+.subcontainer-3 .herodoto_1 h5{
+
+    font-size: 28px;
+    
+}
+
+
+.subcontainer-3 .herodoto_1 p{
+
+    font-size: 22px;
+    
+}
+
+
+.subcontainer-3 .herodoto_1 h6{
+
+    font-size: 24px;
+     
+    
+}
+
+
+
+
 .map-3{
     display: flex;
     justify-content: center;
@@ -842,6 +887,8 @@ body{font-family: 'EB Garamond', serif;
         padding: 22px;
         margin-top: 60px;
         color: #800020;
+
+        
     
     }
     
@@ -852,6 +899,58 @@ body{font-family: 'EB Garamond', serif;
         padding: 12px;
         line-height: 1.5em;
     
+    }
+
+    .herodoto_1{
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 12px;
+    }
+    
+    
+    .subcontainer-3 .herodoto_1{
+    
+        font-size: 24px;
+        padding: 24px;
+        line-height: 1.5em;
+        width: 86%;
+        color: #800020;
+    
+    }
+    
+    
+    .subcontainer-3 .herodoto_1 h5{
+        text-align: center;
+        font-size: 24px;
+        padding: 22px;
+        margin-top: 60px;
+        color: #800020;
+        
+    }
+    
+    
+    .subcontainer-3 .herodoto_1 p{
+    
+         
+        width: 90%;
+        font-size: 18px;
+        padding: 12px;
+        line-height: 1.5em;
+        
+    }
+    
+    
+    .subcontainer-3 .herodoto_1 span{
+    
+        font-size: 20px;
+        padding: 24px;
+        margin-top: 12px;
+        color: #800020;
+         
+        
     }
 
     .map-3{
