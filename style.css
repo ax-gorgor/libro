@@ -676,6 +676,52 @@ body{font-family: 'EB Garamond', serif;
     justify-content: center;
 }
 
+/*recursos en rojo*/
+
+.recursos_naturales_1{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 36px;
+}
+
+
+.subcontainer-4 .recursos_naturales_1{
+
+    font-size: 24px;
+    padding: 24px;
+    line-height: 1.5em;
+    width: 72%;
+    color: #800020;
+
+}
+
+
+.subcontainer-4 .recursos_naturales_1 h5{
+
+    font-size: 28px;
+    
+}
+
+
+.subcontainer-4 .recursos_naturales_1 p{
+
+    font-size: 22px;
+    
+}
+
+
+.subcontainer-4 .recursos_naturales_1 span{
+
+    font-size: 20px;
+     
+    
+}
+
+/**/
+
 
 
 .pic-15{
@@ -688,7 +734,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-15 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;
     padding: 48px;
     object-fit: cover;
 }
@@ -714,7 +760,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-16 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;
     padding: 48px;
     object-fit: cover;
 }
@@ -739,7 +785,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-17 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -763,7 +809,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-18 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -789,7 +835,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-19 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -813,7 +859,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-20 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -837,7 +883,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-21 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -862,7 +908,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-22 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -886,7 +932,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-23 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -911,7 +957,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-24 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -935,7 +981,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-25 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -959,7 +1005,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-26 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -984,7 +1030,7 @@ body{font-family: 'EB Garamond', serif;
 
 .pic-27 img {
     width: 476px;
-    margin-top: 120px;
+    margin-top: 72px;;
     padding: 48px;
     object-fit: cover;
 }
@@ -998,6 +1044,9 @@ body{font-family: 'EB Garamond', serif;
     padding: 6px;
     font-size: 18px;
 }
+
+
+
 
 
 @media screen and (max-width: 768px) {
@@ -1571,6 +1620,59 @@ body{font-family: 'EB Garamond', serif;
         font-size: 18px;
     }
 
+
+    .recursos_naturales_1{
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 12px;
+    }
+    
+    
+    .subcontainer-4 .recursos_naturales_1{
+    
+        font-size: 24px;
+        padding: 24px;
+        line-height: 1.5em;
+        width: 86%;
+        color: #800020;
+    
+    }
+    
+    
+    .subcontainer-4 .recursos_naturales_1 h5{
+        text-align: center;
+        font-size: 22px;
+        padding: 22px;
+        margin-top: 60px;
+        color: #800020;
+        
+    }
+    
+    
+    .subcontainer-4 .recursos_naturales_1 p{
+    
+         
+        width: 90%;
+        font-size: 18px;
+        padding: 12px;
+        line-height: 1.5em;
+        
+    }
+    
+    
+    .subcontainer-4 .recursos_naturales_1 span{
+    
+        font-size: 20px;
+        padding: 24px;
+        margin-top: 12px;
+        color: #800020;
+         
+        
+    }
+
     .pic-15{
     
         display: flex;
@@ -1580,7 +1682,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-15 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1605,7 +1707,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-16 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1630,7 +1732,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-17 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1654,7 +1756,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-18 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1680,7 +1782,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-19 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1705,7 +1807,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-20 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1729,7 +1831,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-21 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1753,7 +1855,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-22 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1777,7 +1879,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-23 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1801,7 +1903,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-24 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1825,7 +1927,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-25 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1849,7 +1951,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-26 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
@@ -1873,7 +1975,7 @@ body{font-family: 'EB Garamond', serif;
     
     .pic-27 img {
         width: 80%;
-        margin-top: 120px;
+        margin-top: 72px;
         padding: 24px;
     }
     
