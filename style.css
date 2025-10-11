@@ -367,7 +367,15 @@ body{font-family: 'EB Garamond', serif;
 
 }
 
-.pic-6{
+.subcontainer-3  .fotos-hidrografia-1{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*.pic-6{
 
     display: flex;
     justify-content: center;
@@ -388,19 +396,45 @@ body{font-family: 'EB Garamond', serif;
     width: 576px;
     padding: 6px;
     font-size: 18px;
-}
+}*/
 
-.pic-7{
 
+.pic-6{
     display: flex;
     justify-content: center;
     width: 100%;
+    height: 480px;
+}
+
+.pic-6 img {
+    width: 476px;
+    margin-top: 72px;;
+    padding: 48px;
+    object-fit: cover;
+}
+
+.epi-6{display: flex;
+    justify-content: center;}
+
+
+  .epi-6 p{
+    width: 376px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+.pic-7{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 480px;
 }
 
 .pic-7 img {
-    width: 576px;
-    margin-top: 120px;
+    width: 476px;
+    margin-top: 72px;;
     padding: 48px;
+    object-fit: cover;
 }
 
 .epi-7{display: flex;
@@ -408,23 +442,24 @@ body{font-family: 'EB Garamond', serif;
 
 
   .epi-7 p{
-    width: 576px;
+    width: 376px;
     padding: 6px;
     font-size: 18px;
 }
 
 
 .pic-8{
-
     display: flex;
     justify-content: center;
     width: 100%;
+    height: 480px;
 }
 
 .pic-8 img {
-    width: 576px;
-    margin-top: 120px;
+    width: 476px;
+    margin-top: 72px;;
     padding: 48px;
+    object-fit: cover;
 }
 
 .epi-8{display: flex;
@@ -432,7 +467,7 @@ body{font-family: 'EB Garamond', serif;
 
 
   .epi-8 p{
-    width: 576px;
+    width: 376px;
     padding: 6px;
     font-size: 18px;
 }
@@ -719,6 +754,9 @@ body{font-family: 'EB Garamond', serif;
      
     
 }
+
+
+
 
 /**/
 
@@ -1044,6 +1082,125 @@ body{font-family: 'EB Garamond', serif;
     padding: 6px;
     font-size: 18px;
 }
+
+.subcontainer-5{
+
+
+ display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.la_geografia_1{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;}
+
+
+.la_geografia_1  h4{
+    
+    font-size: 32px;
+    margin-top: 180px;
+    color: #800020;
+
+}
+
+.subcontainer-5 p{
+
+    font-size: 24px;
+    padding: 80px;
+    line-height: 1.5em;
+    width: 72%;
+    
+}
+
+
+.fotosGeografia{
+                display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 240px;
+
+}
+
+.pic-28{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 480px;
+}
+
+.pic-28 img {
+    width: 476px;
+    margin-top: 72px;;
+    padding: 48px;
+    object-fit: cover;
+}
+
+.epi-28{display: flex;
+    justify-content: center;}
+
+
+  .epi-28 p{
+    width: 376px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+
+.pic-29{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 480px;
+}
+
+.pic-29 img {
+    width: 476px;
+    margin-top: 72px;;
+    padding: 48px;
+    object-fit: cover;
+}
+
+.epi-29{display: flex;
+    justify-content: center;}
+
+
+  .epi-29 p{
+    width: 376px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+
+.pic-30{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 480px;
+}
+
+.pic-30 img {
+    width: 476px;
+    margin-top: 72px;;
+    padding: 48px;
+    object-fit: cover;
+}
+
+.epi-30{display: flex;
+    justify-content: center;}
+
+
+  .epi-30 p{
+    width: 376px;
+    padding: 6px;
+    font-size: 18px;
+}
+
 
 
 
@@ -1990,5 +2147,114 @@ body{font-family: 'EB Garamond', serif;
         font-size: 18px;
     }
 
+     
+    .subcontainer-5{
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 12px;
+}
+
+.la_geografia_1 {display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;}
+
+.la_geografia_1  h4{
+   
+        font-size: 28px;
+        padding: 22px;
+        margin-top: 60px;
+        color: #800020;
+
+}
+
+.subcontainer-5 p{
+
+   width: 90%;
+        font-size: 18px;
+        padding: 12px;
+        line-height: 1.5em;
+        
+}
+
+.pic-28{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-28 img {
+        width: 80%;
+        margin-top: 72px;
+        padding: 24px;
+    }
+    
+    .epi-28{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-28 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    .pic-29{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-29 img {
+        width: 80%;
+        margin-top: 72px;
+        padding: 24px;
+    }
+    
+    .epi-29{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-29 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+
+    .pic-30{
+    
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    
+    .pic-30 img {
+        width: 80%;
+        margin-top: 72px;
+        padding: 24px;
+    }
+    
+    .epi-30{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-30 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+    
+    
     
 }
