@@ -38,6 +38,8 @@ a{text-decoration: none;
 
  .anchor-margin{margin-bottom: 72px;}
 
+ .anchor-margin-cap2{margin-bottom: 72px;}
+
  
       
 
@@ -62,13 +64,14 @@ a{text-decoration: none;
     
 }
 
-.subcontainer-1 h3{
+.container-2 .subcontainer-1 h3{
 
     width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    font-size: 38px;
     
 }
 
@@ -1134,7 +1137,7 @@ a{text-decoration: none;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    margin-bottom: 240px;
+    margin-bottom: 120px;
 
 }
 
@@ -1212,6 +1215,8 @@ a{text-decoration: none;
     font-size: 18px;
 }
 
+.anchor-margin-cap2{margin-top: 72px;}
+
 .subcontainer-6{
 
 
@@ -1232,10 +1237,54 @@ a{text-decoration: none;
     justify-content: center;
     font-size: 36px;
     padding: 6px;
-    margin-top: 12px;
+    margin-top: 24px;
    
     
 }
+
+.subcontainer-6 h3{
+
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 38px;
+    
+}
+
+.subcontainer-7{
+
+
+ display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+
+
+ .testimonios-prehistoria  h4{
+    
+    font-size: 32px;
+    margin-top: 180px;
+    color: #800020;
+    margin-bottom: 24px;
+
+}
+
+.subcontainer-7 p{
+
+    font-size: 24px;
+    padding: 80px;
+    line-height: 1.5em;
+    width: 72%;
+    
+}
+
+
 
 
 
