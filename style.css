@@ -1119,6 +1119,16 @@ a{text-decoration: none;
     font-size: 32px;
     margin-top: 180px;
     color: #800020;
+    text-align: center;
+
+}
+
+.subcontainer-5{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
 
 }
 
@@ -1128,6 +1138,7 @@ a{text-decoration: none;
     padding: 80px;
     line-height: 1.5em;
     width: 72%;
+     
     
 }
 
@@ -1283,7 +1294,106 @@ a{text-decoration: none;
     width: 72%;
     
 }
+ 
+.pic-31{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 900px;
+     padding: 56px;
+}
 
+.pic-31 img {
+    width: 50%;
+    
+    margin-top: 72px;;
+    object-fit: cover;
+   
+}
+ 
+.epi-31{display: flex;
+    justify-content: center;
+   }
+
+
+  .epi-31 p{
+    width: 576px;
+    padding: 6px;
+    font-size: 18px;
+    
+}
+
+.pic-32{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 700px;
+}
+
+.pic-32 img {
+    width: 676px;
+    margin-top: 72px;;
+    padding: 48px;
+    object-fit: cover;
+}
+
+.epi-32{display: flex;
+    justify-content: center;}
+
+
+  .epi-32 p{
+    width: 376px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+.pic-33{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 700px;
+}
+
+.pic-33 img {
+    width: 576px;
+    margin-top: 72px;;
+    padding: 48px;
+    object-fit: cover;
+}
+
+.epi-33{display: flex;
+    justify-content: center;}
+
+
+  .epi-33 p{
+    width: 376px;
+    padding: 6px;
+    font-size: 18px;
+}
+
+.pic-34{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 700px;
+}
+
+.pic-34 img {
+    width: 676px;
+    margin-top: 72px;;
+    padding: 48px;
+    object-fit: cover;
+}
+
+.epi-34{display: flex;
+    justify-content: center;}
+
+
+  .epi-34 p{
+    width: 376px;
+    padding: 6px;
+    font-size: 18px;
+}
 
 
 
@@ -2380,9 +2490,102 @@ a{text-decoration: none;
     
 
         .subcontainer-7 p{
-        width: 90%;
+        width: 80%;
         font-size: 18px;
         padding: 12px;
         line-height: 1.5em;
+    }
+    
+
+
+    .pic-31 img {
+        width: 90%;
+    height: 100%;
+    margin-top: 72px;;
+    object-fit: cover;
+    
+    }
+    
+       .epi-31{display: flex;
+        justify-content: center;
+        width: 100%;
+        
+    }
+    
+    
+      .epi-31 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+        
+    }
+
+    /*
+    .pic-31{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 900px;
+     padding: 56px;
+}
+
+.pic-31 img {
+    width: 50%;
+    
+    margin-top: 72px;;
+    object-fit: cover;
+   
+}
+    */
+
+    .pic-32 img {
+        width: 80%;
+        margin-top: 72px;
+        padding: 24px;
+    }
+    
+    .epi-32{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-32 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+        .pic-33 img {
+        width: 80%;
+        margin-top: 72px;
+        padding: 24px;
+    }
+    
+    .epi-33{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-33 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
+    }
+
+        .pic-34 img {
+        width: 80%;
+        margin-top: 72px;
+        padding: 24px;
+    }
+    
+    .epi-34{display: flex;
+        justify-content: center;
+        width: 100%;}
+    
+    
+      .epi-34 p{
+        width: 80%;
+        padding: 6px;
+        font-size: 18px;
     }
 }
