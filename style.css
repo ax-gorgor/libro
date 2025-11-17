@@ -1396,6 +1396,48 @@ a{text-decoration: none;
 }
 
 
+.subcontainer-9{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 160px;
+}
+
+.excavacionesAreni-1{
+
+    width: 100%;
+    height: 48px;
+    background-color: rgb(175, 131, 74);
+    
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.excavacionesAreni-1 h3{
+    font-size: 28px;
+    color: white;
+    
+}
+
+.AreniText-1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.subcontainer-9 .AreniText-1 p{ width: 80%;
+                                font-size: 24px;
+                                 padding: 12px;
+                                line-height: 1.5em;}
 
 
 
