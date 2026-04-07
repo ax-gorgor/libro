@@ -1638,6 +1638,78 @@ a{text-decoration: none;
                 margin-right: 12px;
 }
 
+.foto-shengavit{display: flex;
+                flex-direction: column;
+                flex-wrap: wrap;
+                justify-content:center;
+                align-items:center;
+                margin-top: 48px;
+                width: 100%;
+                padding: 24px;
+              border-radius: 2%;
+                }
+
+
+.ruinas-de-shengavit img{width: 460px;
+                        margin-top: 72px;}
+
+.epi-44{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+   }
+
+
+  .epi-44 p{
+    
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+
+    .ruinas-de-shengavit-2 img{width: 460px;
+    margin-top: 72px;}
+
+.epi-45{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+   }
+
+
+  .epi-45 p{
+    width: 80%;
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+
+
+.ruinas-de-shengavit-3 img{width: 860px;
+                    margin-top: 72px;}
+
+.epi-46{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+     
+   }
+
+
+  .epi-46 p{
+    width: 100%;
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+
+
+
 .epi-37{display: flex;
     justify-content: center;
    }
@@ -1665,6 +1737,9 @@ a{text-decoration: none;
                                 line-height: 1.5em;
                                 
                             }
+
+.pic-44{}
+
 
 .excavacionesAreni-2{
 
@@ -3072,6 +3147,76 @@ a{text-decoration: none;
                                 line-height: 1.5em;
                                 
                             }
+/**/
+.foto-shengavit{display: flex;
+                flex-direction: column;
+                flex-wrap: wrap;
+                justify-content:center;
+                align-items:center;
+                margin-top: 48px;
+                width: 100%;
+                padding: 24px;
+              border-radius: 2%;
+                }
+
+
+.ruinas-de-shengavit img{width: 360px;
+                        margin-top: 72px;}
+
+.epi-44{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+   }
+
+
+  .epi-44 p{
+    
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+
+    .ruinas-de-shengavit-2 img{width: 360px;
+    margin-top: 72px;}
+
+.epi-45{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+   }
+
+
+  .epi-45 p{
+     
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+
+
+.ruinas-de-shengavit-3 img{width: 360px;
+                    margin-top: 72px;}
+
+.epi-46{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+     
+   }
+
+
+  .epi-46 p{
+    width: 80%;
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
 /**/
 
 .excavacionesAreni-2{
