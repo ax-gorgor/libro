@@ -2882,20 +2882,24 @@ a{text-decoration: none;
     
 
     .pic-31 img {
-        width: 80%;
+        width: 100%;
         margin-top: 72px;
         padding: 24px;
+        object-fit: contain;
+        margin-top: -150%;
     }
     
     .epi-31{display: flex;
         justify-content: center;
-        width: 100%;}
+        width: 100%;
+        }
     
     
       .epi-31 p{
         width: 80%;
         padding: 6px;
         font-size: 18px;
+        margin-top: -130%;
     }
     /*
     .pic-31{
@@ -2918,9 +2922,11 @@ a{text-decoration: none;
 
 
     .pic-32 img {
-        width: 80%;
+        width: 100%;
         margin-top: 72px;
         padding: 24px;
+        object-fit: contain;
+        margin-top: -250%;
     }
     
     .epi-32{display: flex;
@@ -2932,12 +2938,15 @@ a{text-decoration: none;
         width: 80%;
         padding: 6px;
         font-size: 18px;
+        margin-top: -180%;
     }
 
         .pic-33 img {
         width: 80%;
         margin-top: 72px;
         padding: 24px;
+        object-fit: contain;
+        margin-top: -350%;
     }
     
     .epi-33{display: flex;
@@ -2949,26 +2958,31 @@ a{text-decoration: none;
         width: 80%;
         padding: 6px;
         font-size: 18px;
+        margin-top: -210%;
     }
 
         .pic-34 img {
-        width: 80%;
+        width: 100%;
         margin-top: 72px;
         padding: 24px;
+        object-fit: contain;
+        margin-top: -410%;
     }
     
     .epi-34{display: flex;
         justify-content: center;
-        width: 100%;}
+        width: 100%;
+        }
     
     
       .epi-34 p{
         width: 80%;
         padding: 6px;
         font-size: 18px;
+        margin-top: -250%;
     }
 
-    
+    .subcontainer-8 p{ margin-top: -210%;}
 
     .fotosAreni-1{
              display: flex;
