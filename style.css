@@ -1769,7 +1769,140 @@ a{text-decoration: none;
     margin-top: 24px;
     }  
 
+.jarron-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
 
+.jarron-oro img{width: 360px;
+                    margin-top: 144px;}
+
+
+.epi-49{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+     
+   }
+
+   .epi-49 p{
+    
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }  
+
+
+.pajaro-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.pajaro-oro img{width: 240px;
+                    margin-top: 144px;}
+
+
+.epi-50{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-50 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+
+.flecha-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.flecha-oro img{height: 480px;
+                    margin-top: 144px;}
+
+
+.epi-51{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-51 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+
+    .collar-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.collar-oro img{width: 360px;
+                    margin-top: 144px;}
+
+
+.epi-52{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-52 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+
+        .collarcito-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.collarcito-oro img{width: 360px;
+                    margin-top: 144px;}
+
+
+.epi-53{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-53 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
 
 
 
@@ -3365,6 +3498,144 @@ a{text-decoration: none;
     font-size: 18px;
     margin-top: 24px;
     } 
+
+/**/
+
+.jarron-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.jarron-oro img{width: 360px;
+                    margin-top: 144px;}
+
+
+.epi-49{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+     
+   }
+
+   .epi-49 p{
+    
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }  
+
+
+.pajaro-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.pajaro-oro img{width: 240px;
+                    margin-top: 144px;}
+
+
+.epi-50{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-50 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+
+.flecha-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.flecha-oro img{height: 480px;
+                    margin-top: 144px;}
+
+
+.epi-51{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-51 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+
+    .collar-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.collar-oro img{width: 360px;
+                    margin-top: 144px;}
+
+
+.epi-52{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-52 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+
+        .collarcito-oro{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.collarcito-oro img{width: 360px;
+                    margin-top: 144px;}
+
+
+.epi-53{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-53 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+
 /**/
 .excavacionesAreni-2{
 
