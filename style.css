@@ -1943,6 +1943,31 @@ a{text-decoration: none;
     } 
 
 
+.medzamor-entrada{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-entrada img{width: 480px;
+                    margin-top: 144px;}
+
+.epi-58{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 40%
+     
+   }
+
+   .epi-58 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
 .epi-37{display: flex;
     justify-content: center;
    }
@@ -3707,6 +3732,32 @@ a{text-decoration: none;
 margin-top: 1%;}
 
 .epi-54-55-56-57 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+/**/
+.medzamor-entrada{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-entrada img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-58{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-58 p{
     padding: 6px;
     font-size: 18px;
     margin-top: 24px;
