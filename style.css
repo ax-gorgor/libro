@@ -1966,7 +1966,208 @@ a{text-decoration: none;
     padding: 6px;
     font-size: 18px;
     margin-top: 24px;
+    margin-bottom: 120px;} 
+
+
+
+.medzamor-lampara-siete-aberturas {width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    }
+    
+.medzamor-lampara-siete-aberturas img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-59{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-59 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
     } 
+
+.medzamor-vasija-ciervos-cabra {width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-vasija-ciervos-cabra img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-60{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-60 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+
+.medzamor-vasija-trigo {width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+
+.medzamor-vasija-trigo img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-61{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-61 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+
+.medzamor-collar-de-sardonica {width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+
+.medzamor-collar-de-sardonica img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-62{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-62 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+  
+    
+.medzamor-inscripciones-talladas {width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+
+.medzamor-inscripciones-talladas img{width: 360px;
+                    margin-top: 72px;}
+
+.epi-63-64-65{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+   ;
+     
+   }
+
+   .epi-63-64-65 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+     text-align: center
+    } 
+
+.medzamor-hogar-transportable {width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+
+.medzamor-hogar-transportable img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-66{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-66 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+.medzamor-sellos-siglo-XI {width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+
+.medzamor-sellos-siglo-XI img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-67{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-67 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+
+
+    
+    
+    
+    
 
 .epi-37{display: flex;
     justify-content: center;
@@ -3735,6 +3936,20 @@ margin-top: 1%;}
     padding: 6px;
     font-size: 18px;
     margin-top: 24px;
+    }
+    
+.epi-58{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+margin-top: 1%;}
+
+.epi-58 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
     } 
 /**/
 .medzamor-entrada{width: 80%;
@@ -3744,10 +3959,19 @@ margin-top: 1%;}
     justify-content: center;
     align-items: center;}
 
-.medzamor-entrada img{width: 360px;
+
+/***/
+.medzamor-lampara-siete-aberturas{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-lampara-siete-aberturas img{width: 360px;
                     margin-top: 144px;}
 
-.epi-58{display: flex;
+.epi-59{display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
@@ -3757,11 +3981,168 @@ margin-top: 1%;}
      
    }
 
-   .epi-58 p{
+   .epi-59 p{
     padding: 6px;
     font-size: 18px;
     margin-top: 24px;
     } 
+.medzamor-vasija-ciervos-cabra{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-vasija-ciervos-cabra img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-60{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-60 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+.medzamor-vasija-trigo{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-vasija-trigo img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-61{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-61 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+    
+.medzamor-collar-de-sardonica{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-collar-de-sardonica img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-62{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-62 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+  
+.medzamor-inscripciones-talladas{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-inscripciones-talladas img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-63-64-65{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-63-64-65 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+.medzamor-hogar-transportable{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-hogar-transportable img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-66{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-66 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    } 
+
+.medzamor-sellos-siglo-XI{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.medzamor-sellos-siglo-XI img{width: 360px;
+                    margin-top: 144px;}
+
+.epi-67{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-67 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    }
+
+
 /**/
 .excavacionesAreni-2{
 
