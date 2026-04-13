@@ -1708,7 +1708,7 @@ a{text-decoration: none;
     margin-top: 24px;
     }
 
-    .pic-44{}
+   
 
 .mojraplur{ 
     display: flex;
@@ -2052,35 +2052,7 @@ a{text-decoration: none;
     margin-top: 24px;
     text-align: center;
     } 
-    /*
-.medzamor-vasija-trigo{width: 100%;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;}
-
-.medzamor-vasija-trigo img{width: 360px;
-                    margin-top: 144px;}
-
-.epi-61{display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    margin-top: 10px;
-     
-   }
-
-   .epi-61 p{
-    padding: 6px;
-    font-size: 18px;
-    margin-top: 24px;
-    align-items: center;
-    }
-
-    */
+    
     
 .medzamor-pesa-de-agata{width: 100%;
     display: flex;
@@ -2224,7 +2196,25 @@ a{text-decoration: none;
     }
     
     
-    
+ .lyjan{}   
+
+ .Ldyashen{ 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    width: 100%;}
+
+
+.texto-Ldyashen {display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;}
+
     
 
 .epi-37{display: flex;
@@ -4239,7 +4229,24 @@ margin-top: 1%;}
     margin-top: 24px;
     }
 
+.jklk{}
 
+.Ldyashen{ 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150%;
+    width: 90%;}
+
+
+.texto-Ldyashen {display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;}
 /**/
 .excavacionesAreni-2{
 
