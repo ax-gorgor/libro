@@ -2242,6 +2242,36 @@ a{text-decoration: none;
     text-align: center;
     }
     
+.Karahundj{ 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 72px;
+    width: 100%;}
+
+
+.texto-Karahundj {display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 90%;}
+
+.Karahundj-observatorio{width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;}
+
+.Karahundj-observatorio img{width: 360px;
+                    margin: 24px;
+                    }
+
+
 
 .epi-37{display: flex;
     justify-content: center;
@@ -4175,7 +4205,7 @@ margin-top: 1%;}
 
 .medzamor-inscripciones-talladas{width: 80%;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;}
@@ -4302,6 +4332,34 @@ margin-top: 1%;}
     text-align: center;
     }
 
+.Karahundj{ 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200%;
+    width: 90%;}
+
+
+.texto-Karahundj {display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;}
+
+    .Karahundj-observatorio{width: 80%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;}
+
+.Karahundj-observatorio img{width: 360px;
+                    margin: 24px;
+                    }
     /**/
 .excavacionesAreni-2{
 
