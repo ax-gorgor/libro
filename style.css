@@ -2271,7 +2271,22 @@ a{text-decoration: none;
                     margin: 24px;
                     }
 
+.epi-70-71{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
 
+   .epi-70-71 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    text-align: center;
+    }
 
 .epi-37{display: flex;
     justify-content: center;
@@ -4360,6 +4375,23 @@ margin-top: 1%;}
 .Karahundj-observatorio img{width: 360px;
                     margin: 24px;
                     }
+
+    .epi-70-71{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-70-71 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    text-align: center;
+    }
     /**/
 .excavacionesAreni-2{
 
