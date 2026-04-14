@@ -2358,6 +2358,92 @@ a{text-decoration: none;
     }
 
 
+    .El-origen-de-los-armenios{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.El-origen-de-los-armenios  h4{    font-size: 32px;
+    margin-top: 48px;
+    color: #800020;}
+
+.El-origen-de-los-armenios-texto{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 48px;}
+
+.El-origen-de-los-armenios-texto p{font-size: 20px;
+
+                                    }
+
+
+.ciervo-1{width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;}
+
+.ciervo-1 img{width: 480px;
+                    margin-top: 144px;}
+
+
+    .epi-73{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-73 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    text-align: center;
+    }
+
+
+    .ciervo-2{width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;}
+
+.ciervo-2 img{width: 480px;
+                    margin-top: 144px;}
+
+
+    .epi-74{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-74 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    text-align: center;
+    }
+
 .subcontainer-7 p{
 
     font-size: 24px;
@@ -4541,6 +4627,94 @@ margin-top: 1%;}
     text-align: center;
     }
 
+.lalala{}
+
+.El-origen-de-los-armenios{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.El-origen-de-los-armenios  h4{    font-size: 32px;
+    margin-top: 48px;
+    color: #800020;}
+
+.El-origen-de-los-armenios-texto{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 48px;}
+
+.El-origen-de-los-armenios-texto p{font-size: 20px;
+
+                                    }
+
+
+.ciervo-1{width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;}
+
+.ciervo-1 img{width: 360px;
+                    margin-top: 144px;}
+
+
+    .epi-73{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-73 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    text-align: center;
+    }
+
+
+    .ciervo-2{width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;}
+
+.ciervo-2 img{width: 360px;
+                    margin-top: 144px;}
+
+
+    .epi-74{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 200%;
+     
+   }
+
+   .epi-74 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    text-align: center;
+    }
 
 
 .excavacionesAreni-2{
