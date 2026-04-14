@@ -2215,6 +2215,32 @@ a{text-decoration: none;
     align-items: center;
     width: 100%;}
 
+.carretas-Ldyashen{width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.carretas-Ldyashen img{width: 480px;
+                    margin-top: 144px;}
+
+.epi-69{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-69 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    text-align: center;
+    }
     
 
 .epi-37{display: flex;
@@ -4237,7 +4263,7 @@ margin-top: 1%;}
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin-top: 150%;
+    margin-top: 180%;
     width: 90%;}
 
 
@@ -4248,6 +4274,35 @@ margin-top: 1%;}
     align-items: center;
     width: 100%;}
 /**/
+
+.carretas-Ldyashen{width: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;}
+
+.carretas-Ldyashen img{width: 360px;
+                    margin-top: -20%;}
+
+.epi-69{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+     
+   }
+
+   .epi-69 p{
+    padding: 6px;
+    font-size: 18px;
+    margin-top: 24px;
+    text-align: center;
+    }
+
+    /**/
 .excavacionesAreni-2{
 
     width: 100%;
